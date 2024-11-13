@@ -1,9 +1,9 @@
 # Hi there, I'm Sherly- aka [Kirizake]
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 🔭 I’m currently working as Job Seeker
+- 🌱 I’m currently learning Adobe Illustrator and Blender
+- 👯 I’m aspire to be an Illustrator and Graphic Desainer
+- 🤔 I like exploring ideas by reading books and writing
 - 💬 Ask me about anything
 - 📫 How to reach me: sherlynatalia012@gmail.com
 
@@ -11,7 +11,7 @@
 
 #### 1. [Universitas Prima Indonesia](https://unprimdn.ac.id/) | Bachelor of Visual Communication Design | | Medan `2023-Now`
   
- #### 2. [SMA Methodist-An Pancur Batu]https://methodist-pancurbatu.sch.id/) | MIPS | Pancur Batu `2020-2023`
+ #### 2. [SMA Methodist-An Pancur Batu](https://methodist-pancurbatu.sch.id/) | MIPS | Pancur Batu `2020-2023`
    
 ## My Portofolio:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
