@@ -39,7 +39,7 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="Canva" width="30px" src="https://cdn-icons-png.freepik.com/256/3938/3938088.png?semt=ais_hybrid" />][webdev][![website](./img/behance-light.svg)](https://www.behance.net/sherlynatalia72#gh-light-mode-only)
+[<img align="left" alt="Behance" width="30px" src="https://cdn-icons-png.freepik.com/256/3938/3938088.png?semt=ais_hybrid" />][webdev][![website](./img/behance-light.svg)](https://www.behance.net/sherlynatalia72#gh-light-mode-only)
 [![website](./img/behance-dark.svg)](https://www.behance.net/sherlynatalia72#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
@@ -53,4 +53,4 @@
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/Kirizake
