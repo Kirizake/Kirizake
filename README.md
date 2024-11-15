@@ -40,20 +40,8 @@
 <br />
 
 ---
-### Connect with me:
-
-[<img align="left" alt="Behance" width="30px" src="https://cdn-icons-png.freepik.com/256/3938/3938088.png?semt=ais_hybrid" />][webdev][![website](./img/behance-light.svg)](https://www.behance.net/sherlynatalia72#gh-light-mode-only)
-[![website](./img/behance-dark.svg)](https://www.behance.net/sherlynatalia72#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
 
-[webdev]: https://www.behance.net/sherlynatalia72
+
+[webdev]: https://github.com/Kirizake
