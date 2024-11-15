@@ -9,19 +9,22 @@
 
 ## Education:
 
-#### 1. [Universitas Prima Indonesia](https://unprimdn.ac.id/) | Bachelor of Visual Communication Design | Medan `2023-Now`
+#### 1. [Universitas Prima Indonesia](https://unprimdn.ac.id/) | Bachelor of Visual Communication Design | Medan 2023-Now
   
- #### 2. [SMA Methodist-An Pancur Batu](https://methodist-pancurbatu.sch.id/) | MIPS | Pancur Batu `2020-2023`
+ #### 2. [SMA Methodist-An Pancur Batu](https://methodist-pancurbatu.sch.id/) | MIPS | Pancur Batu 2020-2023
    
 ## My Portofolio:
-#### 1. Photography (https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. Photography
+#### - [Chill Vibe](https://www.behance.net/gallery/212479683/Chill-Vibes) | Mar 2024
+#### - [Dark Sky Photography](https://www.behance.net/gallery/212487685/Dark-Sky-Photography) | Nov 2023
+#### - [Building Photography](https://www.behance.net/gallery/212488421/Building-Photography) | Apr 2024
+
+#### 2. Manual Drawing
+#### - [Arima Kana Pencil Drawing](https://www.behance.net/gallery/212487191/Arima-Kana-Pencil-Drawing) | May 2023
+
+#### 3. Branding
+#### - [Shefood](https://drive.google.com/drive/folders/1B_5zVmueDhTbQ2pK1up8mGDQzq7LbwdM?usp=drive_link) | Jan 2024
+#### - [Jewelflakes](https://drive.google.com/drive/folders/1iB2IYzFz8tXYMG-XdWG1mAabR3IosUWI?usp=drive_link) | Jul 2024
 ---
 
 ### Skills and Tools:
