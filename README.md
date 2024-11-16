@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently working as Job Seeker
 - 🌱 I’m currently learning Adobe Illustrator and Blender
-- 👯 I’m aspire to be an Illustrator and Graphic Desainer
+- 👯 I’m aspire to be an Illustrator and Graphic Designer
 - 🤔 I like exploring ideas by reading books and writing
 - 💬 Ask me about anything
 - 📫 How to reach me: sherlynatalia012@gmail.com
