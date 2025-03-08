@@ -5,8 +5,7 @@
 - 👯 I’m aspire to be an Illustrator and Graphic Designer
 - 🤔 I like exploring ideas by reading books and writing
 - 💬 Ask me about anything
-- 📫 How to reach me: sherlynatalia012@gmail.com
-                       www.behance.net/sherlynatalia72
+- 📫 How to reach me: sherlynatalia012@gmail.com / www.behance.net/sherlynatalia72
 
 ## Education:
 
