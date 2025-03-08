@@ -13,7 +13,7 @@
   
  #### 2. [SMA Methodist-An Pancur Batu](https://methodist-pancurbatu.sch.id/) | MIPS | Pancur Batu 2020-2023
    
-## My Projecta:
+## My Projects:
 #### 1. Photography
 #### - [Chill Vibe](https://www.behance.net/gallery/212479683/Chill-Vibes) | Mar 2024
 #### - [Dark Sky Photography](https://www.behance.net/gallery/212487685/Dark-Sky-Photography) | Nov 2023
