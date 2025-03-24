@@ -9,9 +9,9 @@
 
 ## Education:
 
-#### 1. [Universitas Prima Indonesia](https://unprimdn.ac.id/) | Bachelor of Visual Communication Design | Medan 2023-Now
+#### 1. [Prima Indonesia University](https://unprimdn.ac.id/) | Bachelor of Visual Communication Design | Medan 2023-Now
   
- #### 2. [SMA Methodist-An Pancur Batu](https://methodist-pancurbatu.sch.id/) | MIPS | Pancur Batu 2020-2023
+ #### 2. [Methodist-An High School Pancur Batu](https://methodist-pancurbatu.sch.id/) | MIPS | Pancur Batu 2020-2023
    
 ## My Projects:
 #### 1. Photography
