@@ -34,7 +34,6 @@
 [<img align="left" alt="Adobe Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Canva" width="30px" src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo-300x300.png" />][webdev]
 [<img align="left" alt="Figma" width="30px" src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" />][webdev]
-[<img align="left" alt="Canva" width="30px" src="https://oregoncoast.edu/wp-content/uploads/2024/02/canva-logo-300x300.png" />][webdev]
 
 
 <br />
